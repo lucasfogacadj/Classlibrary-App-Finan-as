@@ -11,8 +11,11 @@ namespace finlab.Dominio
         public string grupo { get; set; }
 
         public string local { get; set; }
-        
 
+        public string valor { get; set; }
+        
+        
+/* 
         public Despesas(int id, string  data, decimal numDoc, string grupo, string local)
         {
             this.id = id;
@@ -21,6 +24,6 @@ namespace finlab.Dominio
             this.grupo = grupo;
             this.local = local;
         }
-        
+     */   
     }
 }

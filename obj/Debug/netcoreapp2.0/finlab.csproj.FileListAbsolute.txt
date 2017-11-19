@@ -1,0 +1,8 @@
+/Users/lucasfogaca/lpc/finlab/bin/Debug/netcoreapp2.0/finlab.deps.json
+/Users/lucasfogaca/lpc/finlab/bin/Debug/netcoreapp2.0/finlab.dll
+/Users/lucasfogaca/lpc/finlab/bin/Debug/netcoreapp2.0/finlab.pdb
+/Users/lucasfogaca/lpc/finlab/obj/Debug/netcoreapp2.0/finlab.csproj.CoreCompileInputs.cache
+/Users/lucasfogaca/lpc/finlab/obj/Debug/netcoreapp2.0/finlab.AssemblyInfoInputs.cache
+/Users/lucasfogaca/lpc/finlab/obj/Debug/netcoreapp2.0/finlab.AssemblyInfo.cs
+/Users/lucasfogaca/lpc/finlab/obj/Debug/netcoreapp2.0/finlab.dll
+/Users/lucasfogaca/lpc/finlab/obj/Debug/netcoreapp2.0/finlab.pdb

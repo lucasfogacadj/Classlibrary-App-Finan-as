@@ -9,5 +9,10 @@ namespace finlab.Repositorio
         {
         }
         public DbSet<Despesas> Gasto {get; set;}
+
+        public  DbSet<City> Cities{get; set;}
+
+         public DbSet<Members> Members { get; set; }
+        
     }
 }
